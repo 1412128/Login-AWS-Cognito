@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Login-AWS-Cognito/static/css/main.302ff33d.chunk.css",
+    "main.js": "/Login-AWS-Cognito/static/js/main.6b56a163.chunk.js",
+    "main.js.map": "/Login-AWS-Cognito/static/js/main.6b56a163.chunk.js.map",
+    "runtime-main.js": "/Login-AWS-Cognito/static/js/runtime-main.e19393de.js",
+    "runtime-main.js.map": "/Login-AWS-Cognito/static/js/runtime-main.e19393de.js.map",
+    "static/js/2.b2fbea83.chunk.js": "/Login-AWS-Cognito/static/js/2.b2fbea83.chunk.js",
+    "static/js/2.b2fbea83.chunk.js.map": "/Login-AWS-Cognito/static/js/2.b2fbea83.chunk.js.map",
+    "index.html": "/Login-AWS-Cognito/index.html",
+    "precache-manifest.2a4e9c60384a9c223ad07dc261232ee3.js": "/Login-AWS-Cognito/precache-manifest.2a4e9c60384a9c223ad07dc261232ee3.js",
+    "service-worker.js": "/Login-AWS-Cognito/service-worker.js",
+    "static/css/main.302ff33d.chunk.css.map": "/Login-AWS-Cognito/static/css/main.302ff33d.chunk.css.map",
+    "static/js/2.b2fbea83.chunk.js.LICENSE.txt": "/Login-AWS-Cognito/static/js/2.b2fbea83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e19393de.js",
+    "static/js/2.b2fbea83.chunk.js",
+    "static/css/main.302ff33d.chunk.css",
+    "static/js/main.6b56a163.chunk.js"
+  ]
+}
